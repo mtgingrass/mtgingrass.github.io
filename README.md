@@ -1,2 +1,2 @@
-# [jeremyshannon.com](http://jeremyshannon.com)
-My personal website built with GitHub pages and Jekyll
+# [markgingrass.com](http://markgingrass.com)
+My personal website built with GitHub pages and Jekyll Clone of JeremyShannon.com
