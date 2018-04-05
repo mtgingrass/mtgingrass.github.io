@@ -6,21 +6,21 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: JeremyShannon.com
-email: jeremyeshannon@gmail.com
+title: MarkGingrass.com
+email: mark.gingrass@gmail.com
 description:  #> # this means to ignore newlines until "baseurl:"
-  - Udacity Self-Driving Car Engineer Nanodegree October 2017 <br>
-  - MS in Electrical and Computer Engineering <br>
-  - 15 years experience as electronics engineer and computer scientist
+  - Udacity Self-Driving Car Engineer Nanodegree Est Completion 2018 <br>
+  - MBA <br>
+  - 2 years experience as an Operations Researcher, 8 years experience in Supply Chain Management, 7 years experience as an electonic technician.
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /:year/:month/:day/:title.html
 #PRODUCTION
 #url: "http://jeremyshannon.com" # the base hostname & protocol for your site
 #DEV
 url: "../" # the base hostname & protocol for your site
-twitter_username:  jeremy_and
-github_username:   jeremy-shannon
-linkedin_username: jeremyeshannon
+twitter_username:  MarkGingrass
+github_username:   mtgingrass
+linkedin_username: markgingrass
 
 # Build settings
 markdown: kramdown
