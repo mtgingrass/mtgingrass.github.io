@@ -5,18 +5,21 @@ permalink: /about/
 ---
 
 ### The main points...
-
+- **Education:**
 - Udacity Self-Driving Car Engineer Nanodegree, Started March 2018
-- Master's degree in Business, Oklahoma City University, May 2016
-- Bachelor's degree in Avionics Management, Southeastern Oklahoma State University, May 2013
+- Master's in Business, Oklahoma City University, May 2016
+- Bachelor's in Avionics Management, Southeastern Oklahoma State University, May 2013
 - Associates Pre-Engineering, Oklahoma City Community College, May 2010
+- **Experience:**
 - 2 years as an Operations Researcher in the Air Force Global Supply Chain
 - 8 years in Supply Chain Management
 - 7 years as an Engineering Technician
 
 ---
 
-### People are talking...
+### Kudos to me...
+#### Over the years I have collected some things people have said about me and my work. Check them out below.
+
 
 > Mark you are awesome!! I was getting crushed trying to execute this from using my lectures and spent hours trying to do this before I came across your video... 10 mins later I had it done thanks to your concise tutorial. Thank you so much !!﻿ <br><span class="attrib">- Adrian Jones in response to a C++ tutorial I created. [YouTube Channel](https://www.youtube.com/user/markgingrass)</span>
 
@@ -35,8 +38,6 @@ permalink: /about/
 
 ---
 
-### My journey...
+### Ready for the change...
 
-
-
-And that's where this blog begins...
+Who am I really? Where Did I come from? What inspires me to do this? 
