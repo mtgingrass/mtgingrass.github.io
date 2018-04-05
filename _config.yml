@@ -15,7 +15,7 @@ description:  #> # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /:year/:month/:day/:title.html
 #PRODUCTION
-#url: "http://jeremyshannon.com" # the base hostname & protocol for your site
+#url: "http://markgingrass.com" # the base hostname & protocol for your site
 #DEV
 url: "../" # the base hostname & protocol for your site
 twitter_username:  MarkGingrass
