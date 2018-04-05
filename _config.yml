@@ -10,8 +10,8 @@ title: MarkGingrass.com
 email: mark.gingrass@gmail.com
 description:  #> # this means to ignore newlines until "baseurl:"
   - Udacity Self-Driving Car Engineer Nanodegree Est Completion 2018 <br>
-  - MBA <br>
-  - 2 years experience as an Operations Researcher, 8 years experience in Supply Chain Management, 7 years experience as an electonic technician.
+  - Master's in Business Administration / BS Avionics Management <br>
+  - Operations Researcher (2 years), Supply Chain Management (8 years), Engineering Technician (7 years)
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /:year/:month/:day/:title.html
 #PRODUCTION
