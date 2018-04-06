@@ -15,11 +15,13 @@ permalink: /about/
 - 8 years in Supply Chain Management
 - 7 years as an Engineering Technician
 - **Dad**
-- I have an amazing 10 yer old son!
+- I have an amazing 10 year old son!
+
 ---
 
-### Kudos to me...
-#### Over the years I have collected some things people have said about me and my work. Check them out below.
+
+### Kudos...
+#### Some things people have said about me and my work. Check them out.
 
 
 > Mark you are awesome!! I was getting crushed trying to execute this from using my lectures and spent hours trying to do this before I came across your video... 10 mins later I had it done thanks to your concise tutorial. Thank you so much !!﻿ <br><span class="attrib">- Adrian Jones in response to a C++ tutorial I created. [YouTube Channel](https://www.youtube.com/user/markgingrass)</span>
