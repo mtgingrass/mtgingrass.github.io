@@ -5,12 +5,12 @@ permalink: /about/
 ---
 
 ### The main points...
-- **Education:**
+- **Education**
 - Udacity Self-Driving Car Engineer Nanodegree, Started March 2018
 - Master's in Business, Oklahoma City University, May 2016
 - Bachelor's in Avionics Management, Southeastern Oklahoma State University, May 2013
 - Associates Pre-Engineering, Oklahoma City Community College, May 2010
-- **Experience:**
+- **Experience**
 - 2 years as an Operations Researcher in the Air Force Global Supply Chain
 - 8 years in Supply Chain Management
 - 7 years as an Engineering Technician
@@ -40,4 +40,10 @@ permalink: /about/
 
 ### Ready for the change...
 
-Who am I really? Where Did I come from? What inspires me to do this? 
+Who am I really? Where Did I come from? What inspires me to do this?
+
+Let's start from the beginning, well, a long time ago at least. I was 17 years old and enjoying my Advanced Placement C++ course in high-school. I was a junior, in good shape, and a good kid. I spent a lot of hours late at night messing with every setting on my PC and playing in the AOL chat rooms(I just aged myself here). Now to the point. I dropped out of school.
+
+For whatever reason, I dropped out of school worked full time at McDonalds instead. I had enough of that after the summer and applied for community college instead. I took all of the required tests (because I was a drop out, I had to). I was lucky and tested right into Calculus and Comp 1. I felt like I was on track with my former classmates still. I finished year one of my Computer Science Associates degree. Then I decided skateboarding was more fun than school so I didn't go back.
+
+After a couple of years of bouncing from job to job I decided it was time to grow up a bit. I joined the Air Force as an Electronics Technician. I honestly didn't even know the Air Force wore fatigues at all. I thought they wore 'blues' all the time. I didn't know ANYTHING about the military when I joined except for the fact that you were supposedly not allowed to quit. That's what I needed, a forced job!
