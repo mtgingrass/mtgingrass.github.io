@@ -4,15 +4,15 @@ title:  "Everyone has a story, right?"
 date:   2018-04-06 17:04:00
 categories: self, story
 ---
-Let's start from the beginning. I grew up with my brother and sister. I'm the youngest of 13, on the right...
+Let's start from the beginning. I grew up with my brother and sister. I'm the youngest of 13 children my parents raised. I am the one on the right...
 
 ![sibling photo](/images/siblings.jpg)
 
-Ok, not that far back.
+Ok, not that far back. Let's jump ahead.
 
-I was 17 years old and enjoying my Advanced Placement C++ course in high-school. I was a junior, in good shape, and a good kid. I spent a lot of hours late at night messing with every setting on my PC and playing in the AOL chat rooms(I just aged myself here). Now to the point. I dropped out of school.
+I was 17 years old and enjoying my Advanced Placement C++ course in high-school. I was a junior, in good shape, and a good kid. I spent so many hours late at night messing with every setting on my PC and playing in the AOL chat rooms (I just aged myself here). I dabbled with Basic programming and really wanted to understand this Borland C++ book I had - I couldn't.  Now to the main point. I dropped out of high-school.
 
-For whatever reason, I dropped out of school and worked full time at McDonalds instead. This job satisfaction at $6.50 per hour just wasn't cutting it so I applied for a community college instead. I took all of the required tests (because I was a drop out, I had to). I was lucky and tested right into Calculus and Comp 1. I felt like I was on track with my former classmates still. I finished year one of my Computer Science Associates degree. Then I decided skateboarding was more fun than school so I didn't go back.
+For whatever reason, I dropped out of school at age 17 and worked full time at McDonalds instead. This job satisfaction at $5.80 per hour just wasn't cutting it so I applied for a community college instead. I took all of the required tests (because I was a drop out, I had to). I was lucky (skilled) and tested right into Calculus and Comp 1. I felt like I was on track with my former classmates still. I finished year one of my Computer Science Associates degree. Then I decided skateboarding was more fun than school so I didn't go back, Oops.
 
 After a couple of years of bouncing from job to job I decided it was time to grow up a bit. I joined the Air Force as an Electronics Technician. I honestly didn't even know the Air Force wore fatigues at all. I thought they wore 'blues' all the time. I didn't know ANYTHING about the military when I joined except for the fact that you were supposedly not allowed to quit. That's what I needed, a forced job!
 
@@ -30,4 +30,4 @@ Finally got a "white collar" position after three ish years of fixing electronic
 
 I have become a Subject Matter Expert in the Air Force Supply Chain over the years. I know many of the legacy systems, how they interact, how the timing works, and who uses them. I can communicate with senior leaders and other business units. I can tear down stove pipes or functional areas and get a better end result for the customers. I've finally found a niche. This leads to my current position, an Operations Researcher for the Air Force Supply Chain. Now I get to use the data behind all of these systems to try and pull insights. I can try to flag things that might cause issues down the line. I can predict the future and find correlation with data.
 
-I want something different now. Surely, my years of experience can count for something somewhere else right? Surely, not having an advanced technical degree can stop me right? That's where the me, now, comes in. I fell in love with Machine Learning and programming lately. I can't get enough of it. I've read many books, articles, listened to pod casts and youtube lectures. I've met many people in the industry. I am submerging myself in this new Self Driving Car nano-degree program Udacity hosts. I'm ready to find a new niche in this awesome industry. I'm going to be reaching out, writing, reading, and YouTubing a lot of tutorials, progress, and just about anything in the next few months or years until I land a great fulfilling job.
+I want something different now. Surely, my years of experience can count for something somewhere else right? Surely, not having an advanced technical degree can stop me right? That's where the me, now, comes in. I fell in love with Machine Learning and programming. I can't get enough of it. I've read many books, articles, listened to pod casts and youtube lectures. I've met many people in the industry. I am submerging myself in this new Self Driving Car nano-degree program Udacity hosts. I'm ready to find a new niche in this awesome industry. I'm going to be reaching out, writing, reading, and YouTubing a lot of tutorials, progress, and just about anything in the next few months or years until I land a great fulfilling job.
