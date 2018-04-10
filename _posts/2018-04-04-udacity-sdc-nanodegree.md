@@ -17,4 +17,7 @@ What made me so special in the Supply Chain was that I leveraged the knowledge o
 
 - Be the part. Seriously, be the part and follow it through the supply chain. Do not take your eyes off of any movement of this part. If it get's handed from the scheduler to the mechanic, note that. Then from mechanic to planner, then the shipper, then the truck driver, then the warehouse, then the long term supply, then the repair shops, etc... You get the point. Once you are the part, you can't lose.
 - Leverage your knowledge. Most people in the Supply Chain did not come from a technical background. If you have the know how, automate your job. Reduce human error by automation. Eliminate wasted steps. Follow that LEAN process.
-- 
+- Pick up the phone. Metaphorically and actually! Do not be afraid to ask a friend, co-worker, or supervisor questions. Ask lots of questions. Doing this step, and feeling comfortable doing it, is what a "mature" professional does. Keep at it and learn as much as you can and you will soon find that you are now the expert. You will find that your peers actually didn't know the answer either.
+- Teach them. Teach everyone around you all bits and pieces you know. This will re-enforce your own knowledge. Do not be afraid of them becoming more promotable because you just gave them knowledge. Know this little secret, you are going to learn MORE later. What you tell them today is old news. Learn something new today and you are again, ahead of the game.
+
+Those are some simple steps to take to get ahead with a new career path, or even starting out. So, how do I plan on using my Supply Chain Management skills to help me get a tech job as a Developer, Machine Learning Engineer or Self Driving Car Engineer? I'm diving right in, that is how.
