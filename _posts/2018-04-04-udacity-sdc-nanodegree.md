@@ -45,8 +45,7 @@ ___
 
 - Most of all, get to coding.
 
-This isn't an exhaustive list but a start. Now let's think about ways the Supply Chain knowledge can help me with these things.
 
-- Self Driving Cars will require some kind of data pipe-line. After all, up to 40 TB per day of data can come from a SDC according to [this article](https://www.networkworld.com/article/3147892/internet/one-autonomous-car-will-use-4000-gb-of-dataday.html). Can the data be similar to a Supply Chain pipe-line? Safety stock? Critical Data? Data Timing? Routing? What is the difference between a snail mail Supply Chain and a fast paced data pipeline? Speed.
-- Optimization - as I stated earlier, the Supply Chain is complex and vast. How do you optimize such sporadic data? Data cleansing can be similar to Supply Chain. Road lane markings are not the same on each road just like Supply Chains are all different depending on the venders involved, quantities, prices, lead times, etc.
-- Understanding project scopes, timelines, deadlines, prices, costs, assumptions, variability, and resources all with limited capacity should be similar. All the business rules apply!
+Self Driving Cars will require some kind of data pipe-line. After all, up to 40 TB per day of data can come from a SDC according to [this article](https://www.networkworld.com/article/3147892/internet/one-autonomous-car-will-use-4000-gb-of-dataday.html). Can the data be similar to a Supply Chain pipe-line? Safety stock? Critical Data? Data Timing? Routing? What is the difference between a snail mail Supply Chain and a fast paced data pipeline? Speed perhaps? Optimization - as I stated earlier, the Supply Chain is complex and vast. How do you optimize such sporadic data? Data cleansing can be similar to Supply Chain data cleansing. Road lane markings are not the same on each road just like Supply Chains are all different depending on the venders involved, quantities, prices, lead times, etc.Understanding project scopes, timelines, deadlines, prices, costs, assumptions, variability, and resources all with limited capacity should be similar. All the business rules apply!
+
+Wish me luck on this journey. I will keep you posted. 
