@@ -23,7 +23,7 @@ What made me so special in the Supply Chain was that I leveraged the knowledge o
 
 - Teach them. Teach everyone around you all bits and pieces you know. This will re-enforce your own knowledge. Do not be afraid of them becoming more promotable because you just gave them knowledge. Know this little secret, you are going to learn MORE later. What you tell them today is old news. Learn something new today and you are again, ahead of the game.
 
-Those are some simple steps to take to get ahead with a new career path, or even starting out. So, how do I plan on using my Supply Chain Management skills to help me get a tech job as a Developer, Machine Learning Engineer or Self Driving Car Engineer? I'm diving right in, that is how. Let me describe some of the steps I have already taking.
+Those are some simple steps to take to get ahead with a new career path, or even starting out. So, how do I plan on using my Supply Chain Management skills to help me get a tech job as a Developer, Machine Learning Engineer or Self Driving Car Engineer? I'm diving right in, that is how. Let me describe some of the steps I have already taking just to learn some of the trade.
 ___
 - Jump right into programming. Almost immediately I started Udacity course called Self Driving Car Engineer nano-degree. I read the reviews. I read the chances of getting placed in a job. I read the requirements. Seems a bit difficult but I think I have the programming skills (stored in my head from years ago) to get this done. Let alone, I didn't know a lick of Python when I signed up, oops!
 
@@ -34,7 +34,7 @@ ___
 - Learn what Slack is and join some tech channels.
 - Join meetup groups from the Meetme app. Find the tech meetups near you and go. Don't go to all of them, just go the ones that are active or networkable.
 
-- Talk to everyone about your passion and what you want to do. Don't sell yourself short either. Embrace it. Do not lie. I have told literally everyone I meet at the bar that I am trying to break into this field of machine learning and self driving cars. Turns out, some of them will know someone or perhaps, is someone doing that same exact job.
+- Talk to everyone about your passion and what you want to do. Don't sell yourself short either. Embrace it. Do not lie. I have told almost everyone I meet out and about that I am trying to break into this field of machine learning and self driving cars. Turns out, some of them will know someone or perhaps, is someone doing that same exact job.
 
 - Update [resume](https://github.com/mtgingrass/Resume/blob/master/Mark%20Gingrass%20Single%20Page%20Resume%20Secure.pdf) - over and over and over again! Never ending! I had a giant government version resume that was long and boring. Create a modern template and put yourself out there on one or two pages max.
 
@@ -45,4 +45,8 @@ ___
 
 - Most of all, get to coding.
 
-This isn't an exhaustive list but a start.
+This isn't an exhaustive list but a start. Now let's think about ways the Supply Chain knowledge can help me with these things.
+
+- Self Driving Cars will require some kind of data pipe-line. After all, up to 40 TB per day of data can come from a SDC according to [this article](https://www.networkworld.com/article/3147892/internet/one-autonomous-car-will-use-4000-gb-of-dataday.html). Can the data be similar to a Supply Chain pipe-line? Safety stock? Critical Data? Data Timing? Routing? What is the difference between a snail mail Supply Chain and a fast paced data pipeline? Speed.
+- Optimization - as I stated earlier, the Supply Chain is complex and vast. How do you optimize such sporadic data? Data cleansing can be similar to Supply Chain. Road lane markings are not the same on each road just like Supply Chains are all different depending on the venders involved, quantities, prices, lead times, etc.
+- Understanding project scopes, timelines, deadlines, prices, costs, assumptions, variability, and resources all with limited capacity should be similar. All the business rules apply!
