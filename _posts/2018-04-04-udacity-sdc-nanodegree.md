@@ -7,7 +7,7 @@ categories: self, story
 
 
 
-The truth is, I am antsy for something new and exciting in my career. I want to be part of teams that create and innovate. The question is, what are my transferable skills? What do I bring to the table? This is what this blog post is going to be all about, how to bring a unique set of skills to a field you have never been part of, and to use that for your advantage.  
+The truth is, I am antsy for something new and exciting. I want to be part of teams that create and innovate. Wouldn't it be cool to work on self driving cars or those cool Boston Dynamics robots? I sure think so... The question is, what are my transferable skills? What do I bring to the table? This is what this blog post is going to be all about, how to bring a unique set of skills to a field you have never been part of, and to use that for your advantage. Can I even do this?
 
 I will start with how I brought unique tools to a field I never thought I would be in. Supply Chain Management. I studied math, engineering, and computer science in college. I learned my way around software and hardware and electronics for years before stumbling into this realm of Supply Chain.
 
@@ -24,7 +24,7 @@ What made me so special in the Supply Chain was that I leveraged the knowledge o
 - Teach them. Teach everyone around you all bits and pieces you know. This will re-enforce your own knowledge. Do not be afraid of them becoming more promotable because you just gave them knowledge. Know this little secret, you are going to learn MORE later. What you tell them today is old news. Learn something new today and you are again, ahead of the game.
 
 Those are some simple steps to take to get ahead with a new career path, or even starting out. So, how do I plan on using my Supply Chain Management skills to help me get a tech job as a Developer, Machine Learning Engineer or Self Driving Car Engineer? I'm diving right in, that is how. Let me describe some of the steps I have already taking.
----
+___
 - Jump right into programming. Almost immediately I started Udacity course called Self Driving Car Engineer nano-degree. I read the reviews. I read the chances of getting placed in a job. I read the requirements. Seems a bit difficult but I think I have the programming skills (stored in my head from years ago) to get this done. Let alone, I didn't know a lick of Python when I signed up, oops!
 
 - Learn to love [StackOverflow](http://www.stackoverflow.com) and [Quora](http://www.quora.com) and any other site that helps you gain information, reliably.
