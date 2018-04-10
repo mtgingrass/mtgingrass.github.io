@@ -42,3 +42,4 @@ permalink: /about/
 ---
 
 ### Ready for the change...
+I'm enthusiastic to be a contributor to an impactful technological team. With team leadership and project/program management skill, seven years’ experience in troubleshooting automated electronics equipment, and the ability to code, I have much to offer. The truth is, I aim to pivot my career from Data Analytics within the Supply Chain Management team to a more technical role such as DevOps, Machine Learning Engineer, Python Developer or similar. I’m passionate and curious about the self-driving cars and machine learning industry. I’ve been taking a Self-Driving Car Engineer Nano-degree from Udacity to help prep for this change. 
