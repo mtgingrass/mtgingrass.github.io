@@ -5,16 +5,16 @@ permalink: /about/
 ---
 
 ### The main points...
-- **Education**
-- Udacity Self-Driving Car Engineer Nanodegree, Started March 2018
+**Education**
+- Udacity Self-Driving Car Engineer Nano-degree, Started March 2018
 - Master's in Business, Oklahoma City University, May 2016
 - Bachelor's in Avionics Management, Southeastern Oklahoma State University, May 2013
 - Associates Pre-Engineering, Oklahoma City Community College, May 2010
-- **Experience**
+**Experience**
 - 2 years as an Operations Researcher in the Air Force Global Supply Chain
 - 8 years in Supply Chain Management
 - 7 years as an Engineering Technician
-- **Dad**
+**Dad**
 - I have an amazing 10 year old son!
 
 ---
@@ -42,4 +42,4 @@ permalink: /about/
 ---
 
 ### Ready for the change...
-I'm enthusiastic to be a contributor to an impactful technological team. With team leadership and project/program management skill, seven years’ experience in troubleshooting automated electronics equipment, and the ability to code, I have much to offer. The truth is, I aim to pivot my career from Data Analytics within the Supply Chain Management team to a more technical role such as DevOps, Machine Learning Engineer, Python Developer or similar. I’m passionate and curious about the self-driving cars and machine learning industry. I’ve been taking a Self-Driving Car Engineer Nano-degree from Udacity to help prep for this change. 
+I'm enthusiastic to be a contributor to an impactful technological team. With team leadership and project/program management skill, seven years’ experience in troubleshooting automated electronics equipment, and the ability to code, I have much to offer. The truth is, I aim to pivot my career from Data Analytics within the Supply Chain Management team to a more technical role such as DevOps, Machine Learning Engineer, Python Developer or similar. I’m passionate and curious about the self-driving cars and machine learning industry. I’ve been taking a Self-Driving Car Engineer Nano-degree from Udacity to help prep for this change. Check out my [resume](https://github.com/mtgingrass/Resume/blob/master/Mark%20Gingrass%20Single%20Page%20Resume%20Secure.pdf).

@@ -12,4 +12,4 @@ I'm reaching out to those who are willing to bring me on board to be part of the
 
 I’m willing to relocate, including overseas. Don’t hesitate to get in touch - if you, or anyone you know have a need, I’d love to talk!
 
-#### [MY RESUME](https://github.com/mtgingrass.github.io/)
+#### [MY RESUME](https://github.com/mtgingrass/Resume/blob/master/Mark%20Gingrass%20Single%20Page%20Resume%20Secure.pdf)
