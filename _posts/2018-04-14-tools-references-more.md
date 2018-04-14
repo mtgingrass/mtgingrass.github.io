@@ -10,9 +10,13 @@ In this post, I am going to break down some of the tools I am currently using an
 
 I've been working on computers with Microsoft Windows since the early 90's and I am very familiar with 'using' them. Yes, I know how to navigate them better than your average user. I have never been a system administrator or built my own server so... I will say I am an expert at typical 'home' usage only. I digress. I bought my first MacBook and I am not an Apple fanboy.
 
+![MacOS](/images/macoshero.jpg)
+
 I'm not sure if it's because it's brand new, or because the MacOS and hardware are just bad ass. I've quickly navigated most of computer time on this MacBook Pro 2017 edition. The learning curve is still there but the more you use it, the easier it gets. It's frustrating when there are simple things I am used to but have to Google. Such simple things as, "How do I see these hidden files," or "How do I mirror the display on the project?" Those things are simple, so simple for me on a PC. The short cuts are all new as well. Frustrating but worth it. I'm also biased because I didn't use these tools I am about to discuss on a PC before using them on my MacBook Pro.
 
 I've learned to love Open Source. I'm going to start by giving a list of things I have installed and I am using now. All free.
+
+![Open Source Software](/images/open-source-software-1.jpg)
 
 -- Python 3.6 - A must have for me as I feel like I might just have a chance to get away with not having to learn version 2.7 any time soon. I feel that by the time I learn how to use Python well enough, 3.6 will be the defacto standard (pure speculation). Also, if I learn Python 3.6, switching back to learn 2.7 shouldn't ben an issue.
 
