@@ -9,9 +9,11 @@
 title: MarkGingrass.com
 email: mark.gingrass@gmail.com
 description:  #> # this means to ignore newlines until "baseurl:"
-  - Udacity Self-Driving Car Engineer Nanodegree Est. Completion 2018 <br>
   - MBA / BS Avionics Management <br>
-  - Experience in Operations Research, Supply Chain Management, Engineering Technician
+  - Data, MDM, Governance, Wrangler<br>
+  - Operations Research<br>
+  - Supply Chain Management<br>
+  - Engineering Technician<br>
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /:year/:month/:day/:title.html
 #PRODUCTION
