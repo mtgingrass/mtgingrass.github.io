@@ -3,6 +3,7 @@ layout: post
 title:  "The Pivot - Jack of All Trades"
 date:   2018-04-10 14:28:00
 categories: self, story
+comments: true
 ---
 
 
@@ -48,4 +49,25 @@ ___
 
 Self Driving Cars will require some kind of data pipe-line. After all, up to 40 TB per day of data can come from a SDC according to [this article](https://www.networkworld.com/article/3147892/internet/one-autonomous-car-will-use-4000-gb-of-dataday.html). Can the data be similar to a Supply Chain pipe-line? Safety stock? Critical Data? Data Timing? Routing? What is the difference between a snail mail Supply Chain and a fast paced data pipeline? Speed perhaps? Optimization - as I stated earlier, the Supply Chain is complex and vast. How do you optimize such sporadic data? Data cleansing can be similar to Supply Chain data cleansing. Road lane markings are not the same on each road just like Supply Chains are all different depending on the venders involved, quantities, prices, lead times, etc.Understanding project scopes, timelines, deadlines, prices, costs, assumptions, variability, and resources all with limited capacity should be similar. All the business rules apply!
 
-Wish me luck on this journey. I will keep you posted. 
+Wish me luck on this journey. I will keep you posted.
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://markgingrass.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>

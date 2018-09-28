@@ -3,6 +3,7 @@ layout: post
 title:  "Everyone has a story, right?"
 date:   2018-04-06 17:04:00
 categories: self, story
+comments: true
 ---
 Let's start from the beginning. I grew up with my brother and sister. I'm the youngest of 13 children my parents raised. I am the one on the right...
 
@@ -31,3 +32,24 @@ Finally got a "white collar" position after three ish years of fixing electronic
 I have become a Subject Matter Expert in the Air Force Supply Chain over the years. I know many of the legacy systems, how they interact, how the timing works, and who uses them. I can communicate with senior leaders and other business units. I can tear down stove pipes or functional areas and get a better end result for the customers. I've finally found a niche. This leads to my current position, an Operations Researcher for the Air Force Supply Chain. Now I get to use the data behind all of these systems to try and pull insights. I can try to flag things that might cause issues down the line. I can predict the future and find correlation with data.
 
 I want something different now. Surely, my years of experience can count for something somewhere else right? Surely, not having an advanced technical degree can stop me right? That's where the me, now, comes in. I fell in love with Machine Learning and programming. I can't get enough of it. I've read many books, articles, listened to pod casts and youtube lectures. I've met many people in the industry. I am submerging myself in this new Self Driving Car nano-degree program Udacity hosts. I'm ready to find a new niche in this awesome industry. I'm going to be reaching out, writing, reading, and YouTubing a lot of tutorials, progress, and just about anything in the next few months or years until I land a great fulfilling job.
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://markgingrass.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
