@@ -3,6 +3,7 @@ layout: post
 title:  "Tools, references, more..."
 date:   2018-04-14 16:04:00
 categories: tools, references
+comments: true
 ---
 Breaking into the tech world takes time! Forget about coding in C++ or Python or learning Ruby on Rails. Just figuring out which tools or Integrated Environments (IDE), or even which Operating System (OS) to use can be overwhelming.
 
@@ -47,3 +48,25 @@ I've learned to love Open Source. I'm going to start by giving a list of things 
 I learned which tools to use mostly by finding successful people out there and mimicking them. Find someone in the business you want to be in and figure out which tools they are using. Follow them on [LinkedIn](https://www.linkedin.com/in/markgingrass/) and [Twitter](https://twitter.com/markgingrass).
 
 What are some of the tools you can't live without? Shoot me a message so I can check them out.
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://markgingrass.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
